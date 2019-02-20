@@ -1,0 +1,3 @@
+Thchs30 ASR building Notes
+
+1. Set the corpus path
